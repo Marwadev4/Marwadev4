@@ -13,11 +13,11 @@
 
 - ⚡ Fun fact **I am funny😂**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:marwa.mohammed.jassim@gmail.com</h3>
 <p align="left">
 <a href="https://codepen.io/marwadev4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marwadev4" height="30" width="40" /></a>
 <a href="https://dev.to/marwadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwadev" height="30" width="40" /></a>
-<a href="https://twitter.com/marwadevdnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwadevdnz" height="30" width="40" /></a>
+<a href="https://twitter.com/marwadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marwa-mohammed-jassim97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwa-mohammed-jassim97" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/marwadev4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marwadev4" height="30" width="40" /></a>
 <a href="https://medium.com/marwa.mohammed.jassim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="marwa.mohammed.jassim" height="30" width="40" /></a>
