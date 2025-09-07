@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" height="250"  src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwadnz4&label=Profile%20views&color=0e75b6&style=flat" alt="marwadnz4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwadev4&label=Profile%20views&color=0e75b6&style=flat" alt="marwadev4" /> </p>
 
 - 💬 Ask me about **Programming, Dart, Flutter,**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/marwadnz4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marwadnz4" height="30" width="40" /></a>
+<a href="https://codepen.io/marwadev4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marwadev4" height="30" width="40" /></a>
 <a href="https://dev.to/marwadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwadev" height="30" width="40" /></a>
 <a href="https://twitter.com/marwadevdnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marwadevdnz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marwa-mohammed-jassim97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwa-mohammed-jassim97" height="30" width="40" /></a>
@@ -32,10 +32,10 @@
 
 <br><br>
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwadnz4&show_icons=true&locale=en&layout=compact" alt="marwadnz4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwadev4&show_icons=true&locale=en&layout=compact" alt="marwadev4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwadnz4&show_icons=true&locale=en" alt="marwadnz4" /></p></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwadev4&show_icons=true&locale=en" alt="marwadev4" /></p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwadnz4&" alt="marwadnz4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwadev4&" alt="marwadev4" /></p>
 
 
