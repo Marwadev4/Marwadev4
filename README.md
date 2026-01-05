@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/eef7045e-9bd4-4981-8520-99b0caa3329b)
+<img width="1500" height="500" alt="Group 1" src="https://github.com/user-attachments/assets/c0ddbc5f-c5c9-49a9-92c0-53c0325f295a" />
 <h1 align="center">Hi 👋, I'm Marwa Mohammed</h1>
 <h3 align="center">A passionate Flutter Apps Developer from Iraq</h3>
 
